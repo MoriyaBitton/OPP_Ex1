@@ -88,6 +88,7 @@ in case the graph was not loaded the original graph should remain "as is".
 ## Tests 
 
 WGraph_DStest
+
 WGraph_Algotest
 
 ## License
