@@ -65,8 +65,7 @@ in case the graph was not loaded the original graph should remain "as is".
      
 ## Links
 
-Dijkstra algorithem - wikipedia 
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+[Dijkstra algorithem - wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ## Tests 
 
@@ -75,4 +74,4 @@ WGraph_Algotest
 
 ## License
 
-this exercise made by Moriya Bitton, Id number: 316451749, email address - moria1109@gmail.com
+this exercise made by Moriya Bitton, email address - moria1109@gmail.com
