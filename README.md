@@ -1,8 +1,7 @@
 ## Project Number - Ex1
 
 Ex1 is the second exercise in the OPP course of Ariel university.
-this exercise will allow you to create an undirected and weighted graph and to get information such as the shortest path between nodes, which is calculated by the shortest weighted path,  
-copy the graph, remove nodes, or edges, adding nodes, connection node, save and load graph and more.
+this exercise will allow you to create an undirected and weighted graph and to get information such as the shortest path between nodes, which is calculated by the shortest weighted path, copy the graph, remove nodes, or edges, adding nodes, connection node, save and load graph and more.
 
 ## How To Installation
 
