@@ -19,10 +19,10 @@ in the implementation of each function, some comments will explain how the funct
  
 private methode:
 
-     private int Key;
-     private double Tag;
-     private int nodeId = 0;
-     private String Info;
+    private int Key;
+    private double Tag;
+    private int nodeId = 0;
+    private String Info;
 
 function:
 
