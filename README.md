@@ -66,7 +66,8 @@ function:
 * copy - Compute a deep copy of this weighted graph.
 * isConnected - returns true if and only if there is a valid path from EVERY node to each other node.
 * shortestPathDist - returns the length of the shortest path between src to dest, if there is no such path returns -1.
-* shortestPath - returns the the shortest path between src to dest - is an ordered list of nodes: src--> n1-->n2-->...dest. if no such path returns null.
+* shortestPath - returns the the shortest path between src to dest - is an ordered list of nodes: 
+src--> n1-->n2-->...dest. if no such path returns null.
 * save - Saves this weighted (undirected) graph to the given file name.
 * load - This method loads a graph to this graph algorithm. if the file was successfully loaded - the underlying graph of this class will be changed (to the loaded one),
 in case the graph was not loaded the original graph should remain "as is".
