@@ -1,20 +1,12 @@
-## Project Number - Ex1
+# Project Number - Ex1
 
 Ex1 is the second exercise in the OPP course of Ariel university.
 this exercise will allow you to create an undirected and weighted graph and to get information such as the shortest path between nodes, which is calculated by the shortest weighted path, copy the graph, remove nodes, or edges, adding nodes, connection node, save and load graph and more.
 
-## How To Installation
 
-to use this exercise you need to import the .java files to your IDE and now you can use this.
+# Class Method
 
-## How To Usage
-
-we have here two classes: Graph_DS, this class included NodeInfo class and Graph_Algo. there is an interface to each class that elaborates on each function.
-in the implementation of each function, some comments will explain how the function works.
-
-## Class Method
-
-# class methood: WGraph_DS (NodeInfo)
+## class methood: WGraph_DS (NodeInfo)
  
 private methode:
 
@@ -33,7 +25,7 @@ function:
 * getTag - return the Tag associated with this node
 * setTag - Allow setting the "tag" value for temporal marking a node.
 
-# class method: WGraph_DS 
+## class method: WGraph_DS 
 
 private methode:
 
@@ -59,7 +51,7 @@ function:
 * edgeSize - return the number of edges in my current graph (unidirectional graph).
 * getMC - return the Mode Count - for testing changes in the graph.
 
-# class method: WGraph_Algo
+## class method: WGraph_Algo
 
 private methode:
 
@@ -79,18 +71,17 @@ function:
 * load - This method loads a graph to this graph algorithm. if the file was successfully loaded - the underlying graph of this class will be changed (to the loaded one),
 in case the graph was not loaded the original graph should remain "as is".
      
-## Links
+# Links
 
 [Dijkstra algorithem - wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga4br1uirInBFag_2tTZZ4VPh6Qc7hn7oSw&usqp=CAU)
 
-## Tests 
+# Tests 
 
 WGraph_DStest
 
 WGraph_Algotest
 
-## License
 
-this exercise made by Moriya Bitton, email address - moria1109@gmail.com
+### this exercise made by Moriya Bitton, email address - moria1109@gmail.com
